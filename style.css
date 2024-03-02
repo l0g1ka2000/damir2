@@ -1,0 +1,36 @@
+main{
+    text-align: center;
+}
+body{
+text-align: center;
+   background-color:#5aeddc;
+}
+nav{
+    text-align: center;
+    margin: 50px 0px;
+
+}
+nav a{
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 26px;
+    color: brown;
+    border-bottom: brown 2px solid;
+    margin: 5px;
+}
+header h1 {
+text-align:center;
+}
+.img2{
+    width: 400px;
+}
+body p{
+    font-size: 24px;
+    text-align: justify;
+}
+p{
+    margin: 0px 50px;
+}
+img{
+    border: 3px black solid;
+}
